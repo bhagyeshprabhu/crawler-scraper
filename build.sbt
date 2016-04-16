@@ -1,4 +1,4 @@
-name := "Crawler N Scraper"
+name := "crawler-scraper"
 
 version := "1.0"
 
