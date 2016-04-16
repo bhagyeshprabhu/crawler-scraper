@@ -8,7 +8,7 @@ import services.scraper.ScraperService
 
 /**
  * The Crawler Controller is responsible for crawling a website, scraping the links, storing them in the repository and
- * repeat the same for next links sequentially, until the limit is reached is specified else till the last url is crawled.
+ * repeat the same for next links sequentially, until the limit is reached if specified else it goes on till the last url is crawled.
  *
  * @param crawlerService The repository that stores the session.
  * @param scraperService The repository that stores the tariff.
