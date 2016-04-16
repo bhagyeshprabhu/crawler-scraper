@@ -9,4 +9,4 @@ Where 100 is the limit of URLs to be fetched while crawling. This limit is optio
 
 Execute the unit test cases with command --> activator test
 
-Create a delivery package with command --> activator pack
+Create a delivery package with command --> activator pack-archive
